@@ -1,3 +1,5 @@
+-- I did this project with the help from Alex project video: https://www.youtube.com/@AlexTheAnalyst
+
 SELECT*
 FROM PortfolioProject..CovidDeaths
 ORDER BY 3,4
